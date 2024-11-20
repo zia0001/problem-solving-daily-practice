@@ -24,7 +24,7 @@ computeSumOrProduct = () => {
     console.log(`The product of number from 1 to ${num} is ${product}`)
   }
   else {
-    console.log("invalid choice!.Enter a valid choice")
+    console.log("invalid choice!.Please enter a valid choice")
   }
 };
 computeSumOrProduct();
